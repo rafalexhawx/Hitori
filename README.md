@@ -1,0 +1,2 @@
+# Hitori
+Hitori semestrial project
